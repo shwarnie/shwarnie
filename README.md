@@ -73,15 +73,15 @@ Learn → Build → Break → Debug → Repeat
 
 <p align="left">
 
-<a href="https://github.com/sharnie_coder">
+<a href="https://github.com/shwarnie">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mary-sharnice-7660782a7">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/shwarnie?igsi=ZGdmaDBhZXFxY3g2">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
